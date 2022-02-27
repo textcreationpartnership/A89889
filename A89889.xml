@@ -1,0 +1,451 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true character tending to love. Or, A short treatise wherein is shewed how Christians ought to love their Christian brethren, in their affections, words and deeds. By a lover of charity, B.N. Very usefull and necessary for Christians that are willing to live in love, unity, and peace in these distracted times, wherein so many divisions abound. Viewed and approved by divers worthy men of the City of London.</title>
+            <author>B. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89889</idno>
+            <idno type="STC">Wing N4</idno>
+            <idno type="STC">Thomason E378_26</idno>
+            <idno type="STC">ESTC R201392</idno>
+            <idno type="EEBO-CITATION">99861911</idno>
+            <idno type="PROQUEST">99861911</idno>
+            <idno type="VID">114057</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89889)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114057)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E378[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true character tending to love. Or, A short treatise wherein is shewed how Christians ought to love their Christian brethren, in their affections, words and deeds. By a lover of charity, B.N. Very usefull and necessary for Christians that are willing to live in love, unity, and peace in these distracted times, wherein so many divisions abound. Viewed and approved by divers worthy men of the City of London.</title>
+                  <author>B. N.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Wodenothe, at the Star uuder [sic] Peters Church in Cornhill,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "March 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church --  Unity --  Early works to 1800.</term>
+               <term>Love --  Religious aspects --  Christianity --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114057:1"/>
+            <pb facs="tcp:114057:1" rendition="simple:additions"/>
+            <p>THE TRUE CHARACTER tending to <hi>LOVE. OR,</hi> A ſhort Treatiſe wherein is ſhewed how Chriſtians ought to love their Chriſtian Brethren, in their affections, words and deeds.</p>
+            <p>By a lover of charity, <hi>B. N.</hi>
+            </p>
+            <p>Very uſefull and neceſſary for Chriſtians that are willing to live in love, unity, and peace in theſe diſtracted times, wherein ſo many diviſions abound.</p>
+            <p>
+               <hi>Viewed and approved by divers worthy men of the City of</hi> LONDON.</p>
+            <q>
+               <bibl>HEB. 13. 1.</bibl> 
+               <p>Let brotherly love continue.</p>
+            </q>
+            <p>Printed for <hi>R. Wodenothe,</hi> at the Star under <hi>Peters</hi> Church in <hi>Cornhill,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114057:2"/>
+            <pb n="1" facs="tcp:114057:2"/>
+            <head>THE TRUE CHARACTER tending to <hi>LOVE.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">C</seg>Onſidering with my ſelfe of the benefit of love, together with the difficulty of it, which hath almoſt worne it out of uſe amongſt Chriſti<g ref="char:EOLhyphen"/>ans, I thought fit to afford ſome help to lead carefull Chriſtians up this mount of love. Love is a communicated goodneſſe, without which man is no better then a beaſt, praying for himſelfe alone, alſo it is a commandement which the Lords own finger hath written, therefore in obedience to him we muſt love our neighbour in theſe five particulars.</p>
+            <list>
+               <item>1 We muſt love them in their perſons.</item>
+               <item>2 In their Bodies.</item>
+               <item>3 In their ſouls.</item>
+               <item>4 In their goods.</item>
+               <item>5 In their good names, and in every thing that belongs un<g ref="char:EOLhyphen"/>to them.</item>
+            </list>
+            <p n="1">1 In their perſons, theſe 3 wayes.</p>
+            <list>
+               <item>1 In our affections.</item>
+               <item>2 In our words.</item>
+               <item>3 In our deeds, even as in 1 <hi>John</hi> 3. 18. where he teaches
+<pb n="2" facs="tcp:114057:3"/>
+us not only to love in word and in tongue, but in deed and in trueth.</item>
+            </list>
+            <p n="1">1 In our affections we muſt expreſſe our love in ordering them after ſuch a ſort that we cannot raſhly be angry with them, but moderately reprove them, in which conſider theſe three things.</p>
+            <p n="1">1 That the cauſe be juſt, and earneſt, even as Saint <hi>Matthew</hi> holds it forth in <hi>Mat</hi> 5. 22.</p>
+            <p n="2">2 That our anger be not furious, breaking forth in immoderate heat, into curſing, banning, reviling and the like, for <hi>Paul</hi> the Apoſtle adviſes us to this, that we ſhould put away with all ma<g ref="char:EOLhyphen"/>lice, all bitterneſſe, wrath, and anger, &amp;c. in <hi>Epheſ.</hi> 4. 31.</p>
+            <p n="3">3 That it hold not long, for both ſhould ſeek reconciliation, as that example of the father that ran to meet the ſonne, and the ſonne ran to meet his father; ſo that this doth plainly re<g ref="char:EOLhyphen"/>prove thoſe that when they are once fallen out, will never be re<g ref="char:EOLhyphen"/>conciled again, or ſtraine courteſie, who ſhall begin, and this doth bewray their want of love, <hi>Epheſ.</hi> 4. 16. Now true love ſuffereth long, it will put up many injuries, and paſſe by many wrongs, for what ſaith <hi>Solomon, Cant:</hi> 8. 7. <hi>Many waters cannot quench love,</hi> &amp;c.</p>
+            <p n="2">2 There is a ſecondarie point of inward love that is not to envie any others good: It ſhould not be a grief to us, to ſee o<g ref="char:EOLhyphen"/>thers wiſer, wealthier, or better thought of then our ſelves: we ſhould be as glad of their welfare; as of our own, and rejoyce as much to heare them prayſed, as we would doe if our ſelves were commended, even as <hi>Paul</hi> adviſes us, in <hi>Rom:</hi> 12. 15. <hi>Rejoyce with them that rejoyce, &amp;c.</hi>
+            </p>
+            <p n="3">3 We muſt not in no wiſe take that in evill part, that may be well meant, we muſt not be to jealous, and too ſuſpitious, of our bretheren, upon every conceit, thinking hardly of them, for what ſaith Saint <hi>Matthew, Judg not leſt ye be judged.</hi>
+            </p>
+            <p n="4">4 We muſt not diſdaine them nor ſet up our ſelves againſt them, for though in ſome one gift they come behind us yet hap<g ref="char:EOLhyphen"/>pily in ſome other they come before us, and though they doe not, yet happily they have not had ſuch helps, means, ſo many
+<pb n="3" facs="tcp:114057:3"/>
+ſweet motions, to bring them on as we have had, <hi>Phil:</hi> 2. 3. Where Saint <hi>Paul</hi> exhorteth us all, to let nothing be done through ſtrife or vaineglory, but in lowlines of mind, let each eſteeme other better then himſelfe, &amp;c. Thus let our affections be toward our neighbours, and let us ſhew our love to them in our words.</p>
+            <p n="1">1 Not ſpeaking bitterly, ſcoffingly, nor croſſely to them if we wronged, yet we muſt deale coldly, gently, and mildly with them, for Saint <hi>James</hi> ſaith, <hi>ſpeak not evill one of another, &amp;c. James</hi> 4. 11. Alſo in <hi>Gen:</hi> 21. 9, 10. Alſo <hi>Solomon</hi> ſaith, that a ſoft anſwer turneth away wrath, and therefore let us be adviſed in no wiſe to ſpeake evill one of an other.</p>
+            <p>But yet in Gods cauſe we may be ſome what ſharpe in our ſpeech rather then in our own but in neither unles we ſee gentle means will not work, even as Phyſicians uſe ſtrong medicines when they ſee that the weaker will not helpe.</p>
+            <p n="2">2 We muſt not ſpeake evill of them behind their backs, but by love conceale thoſe infirmities that are in them, unleſſe Gods glory or their good require the opening of their faults, for Saint <hi>Peter</hi> exhorteth us above all things to have fervent charity a<g ref="char:EOLhyphen"/>mong our ſelves, the reaſon is, becauſe, ſaith he, <hi>Charity ſhall co<g ref="char:EOLhyphen"/>ver a multitude of ſins,</hi> 1 <hi>Peter</hi> 4. 8. Alſo <hi>Saint Paul</hi> ſaith, <hi>that the man is not without the woman, nor the woman without man, but we are all one in Chriſt Jeſus,</hi> 1 <hi>Cor:</hi> 11. 11.</p>
+            <p n="3">3 We muſt not brawle, and wrangle contentiouſly about queſtions that ariſe amongſt us, even as Saint <hi>Peter</hi> exhorteth us, in 1 <hi>Peter</hi> 3. 15, 16.</p>
+            <p>We muſt ſhew our love to our neighbours in our deeds, in not withdrawing our ſelves from them in their needs, but to our power and ability, ſeeke to make their lives ſweet and comfor<g ref="char:EOLhyphen"/>table to them, we muſt not be altogether our own men, ſhut up within our own profit and pleaſures, and wholy taken up of them: but by love we muſt goe out of our ſelves to the good and profit of our brethren, for the Lord hath commanded by <hi>Moſes,</hi> that we ſhould open our hands wide unto our brethren,
+<pb n="4" facs="tcp:114057:4"/>
+and to the poore and needy of the land, in <hi>Dent.</hi> 15. from 7. to 13.</p>
+            <p>From whence we may learne that they who are ſo far off from helping their needy brethren, that they make even a ſpoyle, and prey of them, moſt unchirſtianly increaſing their miſeries, and by uſury and hard bargaines, putting of them fur<g ref="char:EOLhyphen"/>ther into debt and danger; they have no drop of humanity much leſt any ſound ground of Chriſtianity in them, for thus to doe is abſolutely forbidden in <hi>Levit.</hi> 25. 36. where it is writ<g ref="char:EOLhyphen"/>ten expreſly that we ſhould take no uſury, nor increaſe of our poor brethren, but that we ſhould feare God, that our brother may live with us, &amp;c.</p>
+            <p>Furthermore, we muſt doe no violence to their perſon, wee muſt neither ſmite nor hurt them in life nor limb, as appeareth, <hi>Levit.</hi> 24. 19, 20. where it is ſayd, that if a man cauſe a blemiſh in his neighbour, for as he hath done, ſo ſhall it be done to him again, &amp;c.</p>
+            <p>
+               <hi>Objection.</hi> But here ſome may ſay, this love is of none ef<g ref="char:EOLhyphen"/>fect now.</p>
+            <p>
+               <hi>Anſwer</hi> Is that though the ceremony of the Law be now abrogated, yet the equity of it ſtands ſtill in ſtrength. So again, we muſt declare our love to their perſons, by not procuring any hurt to their perſons by any means, ſo tenderly the Lord would have us regard our brethren, that we ſhould not be any occaſion whereby hurt or dammage may grow unto them, for thus did <hi>David,</hi> 1 <hi>Chron.</hi> 11. 19. from whence we may obſerve thus much, that them that delay ſuits in Law, or blow tales into <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uens heads, and ſo give occaſion of bloud, or them that raſhly venture mens lives for their profit or pleaſure, are highly guilty of the want of love.</p>
+            <p>Thus far of our love to their bodies, declared in our affecti<g ref="char:EOLhyphen"/>ons, words and deeds, but yet we muſt not thinke our ſelves diſ<g ref="char:EOLhyphen"/>charged towards our brethrens perſons, when we have perfor<g ref="char:EOLhyphen"/>med this, for the chiefeſt thing is yet behinde, which is, love to their ſouls, which is the very life of Chriſtian love, even as
+<pb n="5" facs="tcp:114057:4"/>
+Saint <hi>Paul</hi> expreſſes his deſire for <hi>Iſrael,</hi> through the love he did bear to their ſouls, was, that they might be ſaved, <hi>Rom.</hi> 10. 1.</p>
+            <p n="1">1 We muſt expreſſe our love to their ſouls, in our mourning and ſorrowing for their ſins, even as Chriſt wept over <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> ſo muſt we weepe over the ſouls of our brethren, even as the Prophet <hi>Jeremiah</hi> ſayth, with a heavie heart to the people, <hi>If you will not beare it, my ſoule ſhall weep in ſecret places, &amp;c. Jer.</hi> 13. 17.</p>
+            <p n="2">2 We muſt expreſſe our love to our brethren, in praying for them that the Lord would forgive them, and fill their hearts with the riches of his grace, even as Saint <hi>James</hi> adviſes us to pray one for another, <hi>Jam.</hi> 5. 16. But now, it may be doubted, whether one mans prayer can get pardon for another mans ſin, truly it may, as plainly appears, 1 <hi>John</hi> 5. 16. where it is ſayd, <hi>If any man ſee his brother ſin a ſin which is not unto death, hee ſhall aske, and he ſhall give them life, for them that ſin not unto death, &amp;c.</hi>
+            </p>
+            <p>From whence we may cleerly obſerve, that they that ſee o<g ref="char:EOLhyphen"/>ther men drowned in ſin, and yet are not oft upon their knees, to intreat the Lord heartily and earneſtly for them, as highly guilty of the neglect of this duty of love towards them: But yet not withſtanding we ſhall not obtein a bleſſing without the ſaith of him whom we pray for, for it is impoſſible to pleaſe God without faith, <hi>Heb.</hi> 11. 6.</p>
+            <p n="3">3 We muſt expreſſe our love to them in labouring to draw them to Chriſt, even as one candle lights another, ſo one man muſt bring another to God, as <hi>Peter</hi> being converted muſt con<g ref="char:EOLhyphen"/>vert his brethren, ſo we being turned, muſt turn others to the faith, even as <hi>Zach.</hi> 8. 21. Where it is written, that <hi>the inhabi<g ref="char:EOLhyphen"/>tants of one City ſhall goe to another and ſay, come, let us goe ſpee<g ref="char:EOLhyphen"/>dily and pray before the Lord, and ſeeke the Lord of Hoſts, &amp;c.</hi>
+            </p>
+            <p n="4">4 We muſt expreſſe our love to the ſouls of our bretheren in incouraging them, and lead them forward in the wayes of God:
+<pb n="6" facs="tcp:114057:5"/>
+even as a man plyes a lampe with oyle: ſo we muſt nouriſh and feed good things in them, that they goe not out, as in <hi>Heb.</hi> 10. 24, 25. Where he ſaith, let us conſider to provoke unto love and to good workes not forſaking our courſe, &amp;c. As ſome doe but exhorting one another, &amp;c. This is further declared by a ſimili<g ref="char:EOLhyphen"/>tude, for as in a great family, where are many children the elder help to carry and tend the younger, ſo in the family and houſe<g ref="char:EOLhyphen"/>hold of God, the ancienter and elder Chriſtians muſt help ſup<g ref="char:EOLhyphen"/>port, and bring forward thoſe that are the weaker, and come lately to the ſaith, as <hi>Acts</hi> 18. 27. where it is ſaid, that <hi>hee helped them much which had beleeved through grace.</hi>
+            </p>
+            <p n="5">5 And laſtly, we muſt expreſſe our love to their ſoules in ad<g ref="char:EOLhyphen"/>moniſhing them of their faults, for he that rebuketh not his bro<g ref="char:EOLhyphen"/>ther of his ſinnes hateth him in his heart, and therefore the Lord hath commanded, ſaying, thou ſhalt not hate thy brother in thine heart, but he ſaith withall, thou ſhalt in any wiſe rebuke thy neighbour, and not ſuffer ſin upon him, and truely this not rebuking appeares to be a deadly hatred, becauſe we know the Lord will puniſh his ſins and bring it to light: and there<g ref="char:EOLhyphen"/>fore if we diſſemble and admoniſh him not to leave it, what doe we elſe but deſire the Lord to blaze him, and to ſhame him for it.</p>
+            <p>
+               <hi>Object.</hi> But yet here one may object and ſay, O but men will be angry with us if we tell them their faults.</p>
+            <p>
+               <hi>Anſ.</hi> God will be angry if wee tell them not, and therefore, I ſay it is better to loſe mens favour then Gods favour, and to have our neighbours diſpleaſure then Gods diſpleaſure: and yet often times that fals out, that <hi>Solomon</hi> ſpeaks of, <hi>Prov.</hi> 23. 23. When he ſaith, <hi>that he that rebuketh a man, afterwards ſhall find more favour then he that ſlatereth with the tongus.</hi>
+            </p>
+            <p>Theſe three things are to be regarded in reproving.</p>
+            <p n="1">1. That we doe it mildly and lovingly, that we ſet not too eagerly and too hardly on them, for Saint <hi>Paul</hi> moveth us to deale mildly with a brother that hath ſlipped, in <hi>Gal.</hi> 6. 1. Where he ſaith, <hi>Brethren, if a man be overtaken in a fault, ye
+<pb n="7" facs="tcp:114057:5"/>
+that are ſpirituall, reſtore ſuch a one in the ſpirit of meekneſſe &amp;c.</hi>
+            </p>
+            <p n="2">2 That we doe it mildly and with power, not only making them ſee their ſin, but even all the ſhame of it, to bring them to a further hatred and lothing of it, as the Prophet <hi>Micah</hi> de<g ref="char:EOLhyphen"/>clareth, that he was full of power by the ſpirit of the Lord to ſhew unto <hi>Jacob</hi> his tranſgreſſion, and to <hi>Iſrael</hi> it is ſinne, <hi>Micah.</hi> 3. 8.</p>
+            <p n="3">3 That we doe it diſcreetly, not caſting of precious ſeed upon every ground, but having ſome hope of the party, that it ſhall doe good, for what ſaith <hi>Solomon, reprove not aſcorner leaſt he hate thee, but rebuke a wiſeman and he will love thee, Prov.</hi> 9. 8. as alſo, in <hi>Mat.</hi> 7. 6. where Chriſt for bids to caſt holy things before dogs.</p>
+            <p>But again, every profane man is not to be given over in his ſin, for we muſt have great care that we judge not men paſt phyſick till their diſeaſe be very deſperate the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, for though a man have been a ſcorner before, yet we known nor whether now he may leave it, and though he have been very impatient of re<g ref="char:EOLhyphen"/>proofe at other mens hands, yet wek<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not how he may take it at ours, and therefore as long as there is any ſparke of hope, we muſt not ceaſe mildly to admoniſh them of their faults, as in that parable of the Vineyard that we let out to unthankfull husbandmen, in <hi>Mar.</hi> 12, 3, 4, 5, 6. And thus <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of our leve to their perſons, the ſecond point, is to <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in their goods, for love not only regards the perſon of our neighbour, but alſo dealeth tenderly and lovingly with all thoſe things that belong unto them, ſo that if any thing of his <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all not finde honeſt and truſty dealing at our hands, there ſhall be juſt cauſe to arreſt and indict us of the want of love, for the Lord requires that our love ſhould be without diſſimulation, <hi>Rom.</hi> 12. 9.</p>
+            <p>We muſt ſhew our love to neighbours in doing theſe three things.</p>
+            <list>
+               <item>1 In preſerving them as much as we ran.</item>
+               <item>2 In keeping nothing from them that is their due.</item>
+               <pb n="8" facs="tcp:114057:6"/>
+               <item>3 In not taking anything from them by force or fraud.</item>
+            </list>
+            <p>From the firſt of theſe we may learn, that their errour is great, who when they ſee their neighbours houſe, or cattell, or corne indangered, will not lend their helping hand to preſerve them ſafe, if our neighbours houſe be on fire, every one ſhould run with his bucket to quench it, ſo if our neighbour be oppreſſed in law, every man muſt help to defend his right, if by ſickneſſe he be caſt behind, we muſt further him and help him the beſt we can, as <hi>Exod.</hi> 23. 4. 5. where the Lord commands us that if we ſhould ſee our enemies Oxe or his Alſe going aſtray, wee ſhould ſurely bring it back to him again, &amp;c.</p>
+            <p n="1">1 They offend in this duty of love, who ſuffer their cattell through negligence to breake into other mens grounds, and when they have treſpaſſed him, are not willing and ready to recompence for their hurts, even as the Lord hath ordered it by <hi>Moſes</hi> to be, <hi>Exod</hi> 22. 5.</p>
+            <p n="2">2 They who hurt or lug their neighbours cattell exceſſively, for what conſcience is this? or equity is this? that a man for halfe a penny worth of graſſe, ſhould doe his neighbours beaſt a ſhillings worth of charme, alſo in <hi>Exod.</hi> 22. 5. 6.</p>
+            <p n="3">3 They that turn their own dangers upon their neighbours necks, as they that turn the overſhot of their water upon their neighbours lands, or by any means draw him into perill that themſelves may ſcape, for what ſayth Saint <hi>Duke, Luke</hi> 6. 31. <hi>As you would that <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhould doe unto you, doe you alſo to them.</hi>
+            </p>
+            <p n="4">4 They that can give evidence in a matter, and yet by their ſilence ſuffer their neighbour to be defeated of his ſight, for it is written, <hi>that he ſinneth that concealeth his knowledge,</hi> as it appears, <hi>Levit.</hi> 5. 1.</p>
+            <p n="5">5 They that will run to Law for every injury and for every wrong, for though a man have done us ſorne harme, yet that is no reaſon that we ſhould waſte them in the Law, and ſo turn him out of all that he hath, but we muſt ſeeke as neere as may be, that his puniſhment may be anſwerable and equall to his
+<pb n="9" facs="tcp:114057:6"/>
+offence, for Saint <hi>Paul</hi> ſayth, <hi>There is a fault amongst you, be<g ref="char:EOLhyphen"/>cauſe you goe to law one with another?</hi> ſayth he, <hi>why doe not you rather take wrong?</hi> 1 <hi>Cor</hi> 6. 6. 7.</p>
+            <p n="3">3 The ſecond whereby we muſt ſhew love to our neigh<g ref="char:EOLhyphen"/>bours goods, is that we withhold or keepe back any thing that is his, but reſt are with conſcience and care, whatſoever in any right or equity belongs unto them; for <hi>Solomon</hi> exhorts us in no wiſe to withhold any good from them to whom it is due, &amp;c. <hi>Prov.</hi> 3. 27. Yet truly there are many that fail in this which is in theſe foure particulars.</p>
+            <p n="1">1 They that keepe back the labourers hire, not only they that defeat him of his wages, but even they alſo that keepe it in their hands when it ſhould doe them good, for <hi>Moſes</hi> ſayth, <hi>at his day thou ſhalt give him his hire, neither ſhall the ſin go down upon it, for he is poore and ſetteth his heart upon it, &amp;c. Deut.</hi> 24. 15.</p>
+            <p n="2">2 They that are not carefull to diſcharge their own debts, for <hi>David</hi> ſhewing the different eſtate of the godly and the wicked, in <hi>Pſal.</hi> 37. ſpeaks to this purpoſe in <hi>ver.</hi> 21. where he ſayth that <hi>the wicked borroweth and payeth not again,</hi> ſo that we ſee that it a wickedneſſe, to burrow and not to reſtore again.</p>
+            <p n="3">3 They that finde any thing that was loſt, and are not care<g ref="char:EOLhyphen"/>full to reſtore ſo the beſt way, as I conceive, to bring us to reſtore what we have found that its not ours, is to thinke that the Lord hath done thus but only is try our honeſtly, which we will poſſeſſe with an evill conſcient one penny worth of our neighbours goods or two.</p>
+            <p n="4">4. They that have hired; or borrowed, or taken any thing to keepe, and are not carefull, as much as lies in them to reſtore it as good as it came, even as <hi>Moſes</hi> ſayth, <hi>If a man borrow ought of his neighbour; and the hurt or die, the owner not being with it, he ſhall ſurely make it good, Exod.</hi> 22. 14.</p>
+            <p n="3">3 The third thing whereby we muſt ſhew love to our neigh<g ref="char:EOLhyphen"/>bours goods, is not to get away any thing by force or fraud that
+<pb n="8" facs="tcp:114057:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:114057:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:114057:8"/>
+is his: we muſt ſuffer him to reſt in a peaceable poſſeſſion of thoſe things which the Lord in mercie for the comfort of his life hath caſt upon him, for the Apoſtle <hi>Paul</hi> exhorteth all to live holily and truſtily, forbidding us to defraud our brethren, 1 <hi>Theſ.</hi> 4. 6. from whence we may learn in bargaining always to give a penny worth for a penny, for covetouſneſſe and gree<g ref="char:EOLhyphen"/>dineſſe of gain muſt not rate our commodity, but we muſt look as neer as may be, that the goodneſſe of the commodity wee ſell, even in truth and good conſcience, be equall to that money the buyer payes for it, as <hi>Moſes</hi> fayth, <hi>L<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>it. 25. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. &amp;c.</hi> where it is written <hi>whether ye buy or ſell yee ſhall not opp<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſſe ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi>
+            </p>
+            <p n="1">1. Now this condemneth all uttering of deceitfull and <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ty wa<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. <hi>Amos</hi> 8. 6. 7.</p>
+            <p n="2">2 It condemneth thoſe that over ſell their <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and labour to raiſe the price as high as they can in that, <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi>
+            </p>
+            <p n="3">3 It condemneth thoſe, that uſe falſe meaſures and faſſe weights, or cunningly make <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> come ſh<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t of his due, <hi>Deut.</hi> 25. 15. 16.</p>
+            <p n="4">4 It condemneth thoſe that <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <gap reason="illegible" resp="#APEX" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> upon a <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that muſt <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> get them <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or <gap reason="illegible" resp="#APEX" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap> brethren in bargaining i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, we are alſo charged with this <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. That we take <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>g<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bour for all <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſury <gap reason="illegible" resp="#APEX" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap> themſelves <gap reason="illegible" resp="#APEX" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap> the print of the u<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeth to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. Where the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaith, that we ſould not <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for uſe, &amp;c.</p>
+            <p>
+               <hi>Queſt.</hi> Some may ask what uſury is?</p>
+            <p>
+               <hi>Anſ.</hi> It is a certaine gaine exacted by <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the principall, only in recompence of lending of it, and it is <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> condemned by the Lord, <hi>De<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> 23. 19.</p>
+            <p>
+               <hi>Object.</hi> Againe, ſome may ſay, doth <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> law allow of it for eight in the hundred.</p>
+            <p>
+               <hi>Anſ.</hi> No the Prin<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Law reſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aineth, and he would have you le<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to your bret<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> freely, but <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eart<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are
+<pb n="11" facs="tcp:114057:8"/>
+hardned he doth allow eight in the hundred, leſt you ſhould take twenty in the hundred.</p>
+            <p>
+               <hi>Object.</hi> Againe ſome may thinke that it is lawfull becauſe it is not forbiden in the new Teſtament.</p>
+            <p>
+               <hi>Anſ.</hi> firſt becauſe it is condemned ſufficiently in the old, and the morall Law ſtandeth in ſtrength, and is never repealed, and Chriſt came to fulfill the Law, not to deſtroy it, in <hi>Mat.</hi> 5. 17.</p>
+            <p>Laſtly, we are charged with this duty that we neither filch nor pilfer the leſt pinne or point from our neighbour, for it is not the value but the honeſt manner of comming by a thing that maketh it theft, <hi>Epheſ.</hi> 4. 28. Let him that hath ſtolne ſteal no more, &amp;c.</p>
+            <p>Now (in a word) the root and ground of all hard dealing with our bretheren if covetouſneſſe and greedy deſire of gaine, for why doe men racke the price of then wares? Why doe they ſca<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t their meaſures? Why doe they ſell they care not what? Why are they u<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ets, oppreſſours, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and the like, but becauſe their hearts run after cover <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and they are mightily overtaken with greedineſſe <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> game; and this the Apoſtle <hi>Paul</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, is the root of all evill 1 <hi>Tim.</hi> 6. 10.</p>
+            <p>And there are two cauſes of this covetouſneſſe.</p>
+            <p n="1">1 Di<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with our preſent ſtate, not ruſting in it at in our portion with great thankfulneſſe to God for it. For when we are once fallen into love with a better ſtate and grow diſcontented with the preſent bleſſi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s of God that are upon: then we fall to ſcraping, and ſett<gap reason="illegible" resp="#APEX" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing in we care not how, even as Saint <hi>Paul</hi> ſaith, they that will be rich fall into many temptations, and ſnares, and many fooliſh and hurtfull luſts, <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tim</hi> 6. 9.</p>
+            <p n="2">2 Infidelity and diſtruſt in God, miſtruſting the Lords care, that he will leave <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and not provide ſufficiently for us; we thinke <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> make ſhift for our ſe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves, and to be furniſhed for a rainy day, though the Lord ſhould leave us, but <hi>Paul</hi> 
+               <gap reason="illegible" resp="#APEX" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, that is, that our converſation ſhould
+<pb n="12" facs="tcp:114057:9"/>
+be without covetouſneſſe, and (he ſaith) be content with ſuch things as ye have, for he hath ſaid, I will never leave thee nor forſake thee, in <hi>Heb.</hi> 13. 5.</p>
+            <p>Alſo there are two remedies.</p>
+            <p n="1">1 To reſt contented with our preſent eſtate, as in the por<g ref="char:EOLhyphen"/>tion which the Lord in wiſdome knows to be fitteſt for us, even as <hi>Paul Phil.</hi> 4. 11. <hi>He had learnt to be content in any ſtate or condition.</hi>
+            </p>
+            <p n="2">2 To be ſtrongly perſwaded that the Lord will not leave us not forſake us in our need, but graciouſly will ſupply us with the riches of his power, whatſoever is wanting in us, even as Saint <hi>Peter</hi> exhorteth us, <hi>for to caſt all our care upon God, for he careth for us, 1 Pet.</hi> 5. 7.</p>
+            <p n="3">3 The laſt thing that wee muſt ſhew our love in to our neighbour is to take care for their credit and eſtimation, that we bring not any blot or blemiſh upon them, but by love mayn<g ref="char:EOLhyphen"/>tain and uphold their good report, even as <hi>Paul</hi> directeth us <hi>to ſpeak evill of no man, to be no brawlers, but gentle, ſhewing all meekneſſe to all men, Titus</hi> 3. 2.</p>
+            <p n="1">1 The firſt duty wee are charged with herein, is that wee when occaſion ſerves, ſhould be willing to make report of thoſe graces and good things that be in them, and to beſtow their juſt and deſerved commendations on them: wee muſt not be given to ſmother and conceal our brethrens prayſe, to bury and rake up their commendations in the duſt, but be forward in remembring thoſe things, whereby credit and eſtimation may grow unto them, even <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> in his third Epiſtle 12, where hee commends <hi>Demetrius,</hi> &amp;c.</p>
+            <p n="2">2 The ſecond duty we are charged with is that, when wee heare them falſly charged with any crime, wee muſt ſtand out in their defence, being content to hazard and adventure ſome part of our own credit and welfare for them, even as <hi>Jonathan</hi> anſwered <hi>Saul</hi> in defence of <hi>David,</hi> 1 <hi>Sam</hi> 20. 32.</p>
+            <p n="3">3 We muſt not raiſe any ſlander or flying tale againſt them, it is a ſoul ſin to gad up and down from houſe to houſe whiſ<g ref="char:EOLhyphen"/>pering
+<pb n="13" facs="tcp:114057:9"/>
+in this bodies eare and that bodies eare, this tale and that tale to the diſcredit of our brethren, <hi>Levit.</hi> 19. 17.</p>
+            <p n="4">4 We muſt not open our eares to give entertainment to them that carry tales, for the law of God not only condemneth thoſe that ſet them on foot, but even thoſe alſo, that by reproving them, and lending an eare unto them, do as it were underprop and uphold the ſame. And therefore it ſhall be no excuſe to ſay, that wee were not the authors and firſt brochers of them: but if we be haſty to to flying tales, or giving countenance to every buſie body that will fill our eares; there ſhall be juſt cauſe to condemne us in this behalfe: for whatſayth <hi>Moſes, Thou ſhalt not raiſe a falſe report, put not thine hand with the wicked to be an unrighteous witneſſe, Exod.</hi> 23. 1. Alſo as <hi>Solo<g ref="char:EOLhyphen"/>men</hi> ſayth, even <hi>as the Northwind driveth away rain, ſo doth an angry countenance, a backby<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing tongue, Prov.</hi> 25. 23.</p>
+            <p n="5">5 We muſt not blaze abroad the infirmities and offences of our brethren, if by any private dealing they may be reformed, <hi>Prov.</hi> 11. 13. <hi>A tale-bearer revealeth ſecrets, but he that is of a faithfull ſpirit concealeth the matter.</hi>
+            </p>
+            <p n="6">6 We muſt not amplifie and aggrivate mens faults, though they be bad, yet we muſt not make them worſe than they be: for this ſhall make even our enemies <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y wee love them, when they ſee we do not rack and tenter the ſaints, but ſpeak ſo ten<g ref="char:EOLhyphen"/>derly and ſo ſparingly of them, as poſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ibly we can, <hi>Acts</hi> 16. 22.</p>
+            <p>Now (good Reader) if thou approveſt of this advertiſement in thy judgment, I pray thee giveth diligence to bring it by degrees but unto a daily practice (for thou ſhalt have <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed of it daily) and by good experience, thou ſhalt in the end finde, I hope that the gain will countervail the pain.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
